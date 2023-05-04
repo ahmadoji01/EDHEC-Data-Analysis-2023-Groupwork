@@ -1,0 +1,3 @@
+const,carat,cut_ideal,cut_premium,cut_good,cut_very_good,clarity_if,clarity_si1,clarity_si2,clarity_vs1,clarity_vs2,clarity_vvs1,clarity_vvs2,color_e,color_f,color_g,color_h,color_i,color_j,depth,table,x,y,z,0
+1.0,4.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,63.3,58.0,10.01,9.94,6.31,10.298835041870008
+1.0,4.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,95.0,95.0,10.01,9.94,6.31,12.291131619183018
